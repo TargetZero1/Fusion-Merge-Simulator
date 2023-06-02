@@ -1,0 +1,109 @@
+[inputs."Texture/Gamepass/Icon/AutoClick.png"]
+hash = "1a4833cd1cbc97d0dde688573679d2886fedf7373d738c3becc4792565ef7413"
+id = 1
+packable = false
+
+[inputs."Texture/Gamepass/Icon/AutoHatch.png"]
+hash = "c80398a28a9b9339cebe613b6d7456f5471edae311d0735d3f489afb9ae3f857"
+id = 2
+packable = false
+
+[inputs."Texture/Gamepass/Icon/DoubleCash.png"]
+hash = "b8ef2e1958d05874dc1794ee53cd005cedaa6b75ed840fed5446459a88dbccd9"
+id = 3
+packable = false
+
+[inputs."Texture/Gamepass/Icon/DoublePassiveCash.png"]
+hash = "6d03299e35da58550bc8c35ec38b459818539fc1d709c8d64ed57d2020b9986d"
+id = 4
+packable = false
+
+[inputs."Texture/Gamepass/Icon/Lucky.png"]
+hash = "8c02a77f1a6452821252f61e597d9884b2761ac1fee6fa2013f1ba47ca55cc3d"
+id = 5
+packable = false
+
+[inputs."Texture/Gamepass/Icon/SuperLucky.png"]
+hash = "f4936b0ab5213cc6c17c719bb30f57095f2fa49815cbf29afd9ee9c60630b8cf"
+id = 6
+packable = false
+
+[inputs."Texture/Gamepass/Icon/TripleHatch.png"]
+hash = "aa70aa1bead2434a1c8f415c6bfc28bfc893d0b04c6ee0ebcf15675e532c0383"
+id = 7
+packable = false
+
+[inputs."Texture/Gamepass/Tab/Blue.png"]
+hash = "21806aa5a2ed18260a405199878412c1fb4b296cc6f3d892f2c9617c3bce00c4"
+id = 8
+packable = false
+
+[inputs."Texture/Gamepass/Tab/Green.png"]
+hash = "3800cef16b296a124c629bc34337fc5b9fa601516fd4b7761f0f6f6e7d27c587"
+id = 9
+packable = false
+
+[inputs."Texture/Gamepass/Tab/Purple.png"]
+hash = "2004268fe9ec6d26b51f9e9e40183eb2bc1b78794deeb784417c0c60710aeed4"
+id = 10
+packable = false
+
+[inputs."Texture/Gamepass/Tab/Yellow.png"]
+hash = "a51bc8519ba0d932d4fd6f8621663f4680e3731c3ed9d396154748ee71eacc4c"
+id = 11
+packable = false
+
+[inputs."Texture/Menu/ExitButton/Default.png"]
+hash = "9851d8c1ead3b1bf38635dabf940ffd705562b78eb7379841218811c23ac9338"
+id = 12
+packable = false
+
+[inputs."Texture/Menu/ExitButton/Hovered.png"]
+hash = "4dc6fed71b40167d38a9607993bbca8f22af09704b57dc54bc013be7c6ed38de"
+id = 13
+packable = false
+
+[inputs."Texture/Menu/ExitButton/Pressed.png"]
+hash = "53f2d12b2f01e25c6cf49c9f79cf84d121c10462483ba29b49ccb851a9ccc393"
+id = 14
+packable = false
+
+[inputs."Texture/Menu/Index/Default.png"]
+hash = "9b32aafa7f9a045449222d61fc107b660ab1993d618db0cb50289fb56e879144"
+id = 15
+packable = false
+
+[inputs."Texture/Menu/Index/Hover.png"]
+hash = "25f0a88c313ee2fc1c107dfc044e8e0e45585c13fb518f4e22a4b73e674ba41d"
+id = 16
+packable = false
+
+[inputs."Texture/Menu/Pets/Default.png"]
+hash = "6665bad59dd31977c46adab00d37ea659434743c51f778fe4cf3f0a588e998d3"
+id = 17
+packable = false
+
+[inputs."Texture/Menu/Pets/Hover.png"]
+hash = "8bbdf58ac720b1e0e734f46e7a4826dc664705132d13b403f8f088c4ca76b945"
+id = 18
+packable = false
+
+[inputs."Texture/Menu/Settings/Default.png"]
+hash = "2455ae061518ca98a58411b6f8b3159ed206284319cb3f965c281cdbc184f5f2"
+id = 19
+packable = false
+
+[inputs."Texture/Menu/Settings/Hover.png"]
+hash = "1d18c6af7174dfb6a28b94c0ceb7498b7212f0fd4c03a334cefcaf5170b21be9"
+id = 20
+packable = false
+
+[inputs."Texture/Menu/Shop/Default.png"]
+hash = "9c8acc5edfbeb4efb3d50c28ba52d33d06e48cb1aba822d992e62677092b8cfd"
+id = 21
+packable = false
+
+[inputs."Texture/Menu/Shop/Hover.png"]
+hash = "b35ca162dd452036d0d0fd45481242f8fbc94c68455df14a6d437b03a1da6757"
+id = 22
+packable = false

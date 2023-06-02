@@ -1,0 +1,20 @@
+[package]
+name = "do-not-publish/xyz"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+HashUtil = "boatbomber/hashlib@1.0.0"
+Maid = "nightcycle/maid@1.1.4"
+ProfileService = "brittonfischer/profileservice@2.1.5"
+Signal = "nightcycle/signal@1.0.2"
+Fusion = "elttob/fusion@^0.1.1-beta"
+ServiceProxy = "nightcycle/service-proxy@1.0.0"
+NetworkUtil = "nightcycle/network-util@1.6.0"
+TableUtil = "nightcycle/table-util@1.1.0"
+CurveUtil = "nightcycle/curve-util@1.0.0"
+ModelUtil = "nightcycle/model-util@1.0.6"
+GeometryUtil = "nightcycle/geometry-util@1.1.1"
+CFrameUtil = "nightcycle/cframe-util@1.0.0"
+Spring = "nightcycle/spring@1.0.0"

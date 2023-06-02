@@ -1,0 +1,8 @@
+# https://github.com/Roblox/tarmac
+name = "merge-sim"
+upload-to-group-id = 11827920
+
+[[inputs]]
+glob = "Texture/**.png"
+codegen = true
+codegen-path = "src/Shared/Assets.lua"

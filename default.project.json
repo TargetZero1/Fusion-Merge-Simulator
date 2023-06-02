@@ -1,0 +1,39 @@
+{
+  "name": "Merge-Sim-Prototype",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className":"ReplicatedStorage",
+      "Shared": {
+        "$className": "Folder",
+        "$path": "src/Shared"
+      },
+      "Packages":{
+        "$className": "Folder",
+        "$path" : "Packages"
+      },
+      "Client": {
+        "$className": "Folder",
+        "$path": "src/Client"
+      }
+    },
+
+    "ServerScriptService": {
+      "$className":"ServerScriptService",
+      "Server": {
+        "$className": "Folder",
+        "$path": "src/Server"
+      }
+    },
+
+    "StarterPlayer": {
+      "$className":"StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className":"StarterPlayerScripts",
+        "$path" : "src/StarterPlayerScripts"
+  
+      }
+    }
+  }
+}
