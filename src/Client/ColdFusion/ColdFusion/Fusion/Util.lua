@@ -53,7 +53,6 @@ type FusionSpecialKey = _Types.FusionSpecialKey
 type FusionKey = _Types.FusionKey
 type FusionPropertyTable = _Types.FusionPropertyTable
 
-
 return function(interface: any)
 	local Util = {}
 	Util.__index = Util
