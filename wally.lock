@@ -15,11 +15,11 @@ dependencies = []
 [[package]]
 name = "do-not-publish/xyz"
 version = "0.1.0"
-dependencies = [["CFrameUtil", "nightcycle/cframe-util@1.0.0"], ["CurveUtil", "nightcycle/curve-util@1.0.0"], ["Fusion", "elttob/fusion@0.1.1-beta"], ["GeometryUtil", "nightcycle/geometry-util@1.1.1"], ["HashUtil", "boatbomber/hashlib@1.0.0"], ["Maid", "nightcycle/maid@1.1.4"], ["ModelUtil", "nightcycle/model-util@1.0.6"], ["NetworkUtil", "nightcycle/network-util@1.6.0"], ["ProfileService", "brittonfischer/profileservice@2.1.5"], ["ServiceProxy", "nightcycle/service-proxy@1.0.0"], ["Signal", "nightcycle/signal@1.0.2"], ["Spring", "nightcycle/spring@1.0.0"], ["TableUtil", "nightcycle/table-util@1.1.0"]]
+dependencies = [["CFrameUtil", "nightcycle/cframe-util@1.0.0"], ["CurveUtil", "nightcycle/curve-util@1.0.0"], ["Fusion", "elttob/fusion@0.2.0"], ["GeometryUtil", "nightcycle/geometry-util@1.1.1"], ["HashUtil", "boatbomber/hashlib@1.0.0"], ["Maid", "nightcycle/maid@1.1.4"], ["ModelUtil", "nightcycle/model-util@1.0.6"], ["NetworkUtil", "nightcycle/network-util@1.6.0"], ["ProfileService", "brittonfischer/profileservice@2.1.5"], ["ServiceProxy", "nightcycle/service-proxy@1.0.0"], ["Signal", "nightcycle/signal@1.0.2"], ["Spring", "nightcycle/spring@1.0.0"], ["TableUtil", "nightcycle/table-util@1.1.0"]]
 
 [[package]]
 name = "elttob/fusion"
-version = "0.1.1-beta"
+version = "0.2.0"
 dependencies = []
 
 [[package]]
