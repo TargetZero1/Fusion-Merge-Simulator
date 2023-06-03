@@ -1,0 +1,6 @@
+{
+  "name": "hashlib",
+  "tree": {
+    "$path": "src"
+  }
+}

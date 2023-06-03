@@ -1,0 +1,80 @@
+site_name: Fusion
+site_url: https://elttob.github.io/Fusion/
+repo_name: Elttob/Fusion
+repo_url: https://github.com/Elttob/Fusion
+
+theme:
+  name: material
+  custom_dir: docs/assets/overrides
+  logo: assets/logo-dark.svg
+  favicon: assets/logo-dark.svg
+  palette:
+    scheme: fusion-dark
+    primary: black
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - assets/fusion.css
+
+nav:
+  - Home: index.md
+  - Tutorials:
+    - Get Started: tutorials/index.md
+    - Fundamentals:
+      - Creating UI: tutorials/fundamentals/creating-ui.md
+      - Handling Events: tutorials/fundamentals/handling-events.md
+      - Storing State: tutorials/fundamentals/storing-state.md
+      - Computations: tutorials/fundamentals/computations.md
+      - Changing Properties: tutorials/fundamentals/changing-properties.md
+      - Changing Children: tutorials/fundamentals/changing-children.md
+      - "Project 1: Counting Clicks": tutorials/fundamentals/project-1.md
+    - Further Basics:
+      - Components: tutorials/further-basics/components.md
+      - Arrays and Lists: tutorials/further-basics/arrays-and-lists.md
+      - Compatibility: tutorials/further-basics/compatibility.md
+      - "Project 2: To-Do List": tutorials/further-basics/project-2.md
+    - Animation:
+      - Tweens: tutorials/animation/tweens.md
+      - Springs: tutorials/animation/springs.md
+      - "Project 3: Switches": tutorials/animation/project-3.md
+  - Examples:
+    - Home: examples/index.md
+  - API Reference:
+    - Home: api-reference/index.md
+    - Errors & Messages: api-reference/errors-and-messages.md
+    - Instances:
+      - New: api-reference/api/new.md
+      - Children: api-reference/api/children.md
+      - OnEvent: api-reference/api/onevent.md
+      - OnChange: api-reference/api/onchange.md
+    - State Management:
+      - State: api-reference/api/state.md
+      - Computed: api-reference/api/computed.md
+      - ComputedPairs: api-reference/api/computedpairs.md
+      - Compat: api-reference/api/compat.md
+    - Animation:
+      - Tween: api-reference/api/tween.md
+      - Spring: api-reference/api/spring.md
+  - Extras:
+    - Home: extras/index.md
+    - Backgrounds: extras/backgrounds.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - meta
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.inlinehilite
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      guess_lang: false

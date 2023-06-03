@@ -1,0 +1,7 @@
+[tools]
+remodel = {source = "rojo-rbx/remodel", 		version = "0.11.0" }
+rojo = 	{source = "rojo-rbx/rojo", 			version = "7.2.1" }
+wally = 	{source = "UpliftGames/wally", 		version = "0.3.1" }
+tarmac = 	{source = "Roblox/tarmac",			version = "0.7.0"}
+wally-package-types = {source = "JohnnyMorganz/wally-package-types", version = "1.2.0"}
+stylua = {source = "JohnnyMorganz/StyLua", version = "0.15.3"}

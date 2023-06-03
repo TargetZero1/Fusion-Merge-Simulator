@@ -1,0 +1,11 @@
+[package]
+name = "nightcycle/cframe-util"
+description = "A cframe utility!"
+version = "1.0.0"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]
+GeometryUtil = "nightcycle/geometry-util@^1.1.1"

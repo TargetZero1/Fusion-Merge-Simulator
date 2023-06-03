@@ -1,0 +1,10 @@
+[package]
+name = "nightcycle/table-util"
+description = "A table utility"
+version = "1.1.0"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]

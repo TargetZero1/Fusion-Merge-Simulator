@@ -1,0 +1,11 @@
+[package]
+name = "nightcycle/curve-util"
+description = "A curve util!"
+version = "1.0.0"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]
+Vector = "nightcycle/vector@^1.0.2"

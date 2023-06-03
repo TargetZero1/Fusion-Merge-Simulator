@@ -1,0 +1,10 @@
+[package]
+name = "nightcycle/signal"
+description = "A typechecked branch of Quenty's signal class."
+version = "1.0.2"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]

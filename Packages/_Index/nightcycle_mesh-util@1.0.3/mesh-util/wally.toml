@@ -1,0 +1,11 @@
+[package]
+name = "nightcycle/mesh-util"
+description = "A mesh util!"
+version = "1.0.3"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]
+GeometryUtil = "nightcycle/geometry-util@^1.0.0"

@@ -1,0 +1,14 @@
+[package]
+name = "nightcycle/model-util"
+description = "A model utility!"
+version = "1.0.6"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]
+MeshUtil = "nightcycle/mesh-util@^1.0.3"
+CFrameUtil = "nightcycle/cframe-util@^1.0.0"
+ConstraintUtil = "nightcycle/constraint-util@^1.0.0"
+Maid = "nightcycle/maid@^1.1.1"

@@ -1,0 +1,12 @@
+[package]
+name = "nightcycle/network-util"
+description = "Creates and manages remote events / functions"
+version = "1.6.0"
+authors = ["CJ Oyer <coyer@nightcycle.us>"]
+realm = "shared"
+registry = "https://github.com/upliftgames/wally-index"
+exclude = ["Packages", ".vscode"]
+
+[dependencies]
+Signal = "nightcycle/signal@^1.0.2"
+Maid = "nightcycle/maid@^1.0.4"
