@@ -1,3 +1,4 @@
+---@diagnostic disable: duplicate-doc-class
 --!strict
 local _Package = script
 local _Packages = _Package.Parent

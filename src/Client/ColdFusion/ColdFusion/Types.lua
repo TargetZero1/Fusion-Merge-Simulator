@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-doc-name
 --!strict
 local _Package = script.Parent
 local _Packages = _Package.Parent
@@ -17,7 +18,7 @@ export type BaseState<T> = {
 }
 export type CanBeState<T> = (BaseState<T> | T)
 
---- @type CanBeState<T> (State | T)
+--- export type CanBeState<T> = (BaseState<T>, T)
 --- @within ColdFusion
 
 export type State<T> = BaseState<T> & {

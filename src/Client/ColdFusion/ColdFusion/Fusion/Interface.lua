@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-type
 --!strict
 local RunService = game:GetService("RunService")
 

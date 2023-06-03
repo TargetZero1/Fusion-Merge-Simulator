@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-type
 --!strict
 local _Package = script.Parent
 local _Packages = _Package.Parent
