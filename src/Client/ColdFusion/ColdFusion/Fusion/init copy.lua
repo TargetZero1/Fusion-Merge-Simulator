@@ -5,7 +5,7 @@ local _Packages = _Package.Parent
 local _NetworkUtil = require(_Packages.NetworkUtil)
 local _Maid = require(_Packages.Maid)
 
---- @class ColdFusion
+-- @class ColdFusion
 --- The wally package wrapper for fusion
 
 -- Import types
