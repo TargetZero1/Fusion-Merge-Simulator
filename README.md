@@ -4,6 +4,7 @@ Welcome to **Fusion Merge Simulator**, the ultimate game where you combine and m
 
 Merge different elements, unlock rare combinations, and discover the true potential of fusion. Immerse yourself in a captivating world as you master the art of merging.
 
+
 ## Features
 
 🌟 **Unique Fusion Mechanics:** Experience a one-of-a-kind fusion system that allows you to create extraordinary items.
@@ -13,6 +14,7 @@ Merge different elements, unlock rare combinations, and discover the true potent
 🌎 **Explore Diverse Environments:** Venture into stunning environments filled with hidden treasures and fusion opportunities.
 
 🎁 **Unlock Rare Combinations:** Discover rare fusion combinations that grant you special abilities and exclusive bonuses.
+
 
 ## How to Play
 
@@ -24,11 +26,28 @@ Merge different elements, unlock rare combinations, and discover the true potent
 
 4. **Evolve and Upgrade:** Continuously merge and evolve your items to unlock special abilities, bonuses, and reach the pinnacle of fusion mastery.
 
+
 ## Installation
 
 To play Fusion Merge Simulator, follow these steps:
 
 1. Download Roblox from [https://www.roblox.com/download](https://www.roblox.com/download).
+
+   - For Windows: Click on the "Download" button on the Roblox website and follow the on-screen instructions to install Roblox.
+   - For Mac: Click on the "Download" button on the Roblox website and follow the provided instructions to install Roblox.
+
+2. Once Roblox is installed, launch the Roblox application.
+
+3. Create a Roblox account or log in to your existing account.
+
+4. Search for "Fusion Merge Simulator" in the Games section.
+
+5. Click on the game and press the "Play" button.
+
+6. Follow the on-screen instructions to start playing and embark on your fusion adventure!
+
+Note: A stable internet connection is required to play Fusion Merge Simulator.
+
 
 ## Play on Roblox
 
