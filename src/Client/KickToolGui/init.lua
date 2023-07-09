@@ -89,7 +89,7 @@ local function getToolButton(
 	})
 end
 
---frame
+--Frame
 return function(maid: Maid, kickMode: ValueState<MainSysUtil.KickMode>, toolSignal: Signal)
 	local _fuse = ColdFusion.fuse(maid)
 	local _new = _fuse.new
@@ -134,7 +134,7 @@ return function(maid: Maid, kickMode: ValueState<MainSysUtil.KickMode>, toolSign
 				HorizontalAlignment = Enum.HorizontalAlignment.Center,
 				SortOrder = Enum.SortOrder.LayoutOrder,
 			}),
-			--tools
+			--Tools
 
 			getToolButton(maid, 3, kickMode, "Tap" :: MainSysUtil.KickMode, function()
 				toolSignal:Fire("Tap" :: MainSysUtil.KickMode)

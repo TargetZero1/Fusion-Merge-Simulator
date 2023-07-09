@@ -1,21 +1,21 @@
 --!strict
---services
+--Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
---packages
+--Packages
 local Maid = require(ReplicatedStorage:WaitForChild("Packages"):WaitForChild("Maid"))
 local ColdFusion = require(game:GetService("ReplicatedStorage"):WaitForChild("Client"):WaitForChild("ColdFusion"))
 local Signal = require(ReplicatedStorage:WaitForChild("Packages"):WaitForChild("Signal"))
---modules
+--Modules
 local MainSysUtil = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("MainSysUtil"))
 local ToolGui = require(ReplicatedStorage:WaitForChild("Client"):WaitForChild("KickToolGui"))
---types
+--Types
 type Maid = Maid.Maid
 type Signal = Signal.Signal
 type State<T> = ColdFusion.State<T>
 type ValueState<T> = ColdFusion.ValueState<T>
 type CanBeState<T> = ColdFusion.CanBeState<T>
 
---frame
+--Frame
 return function(target)
 	local maid = Maid.new()
 	local _fuse = ColdFusion.fuse(maid)
@@ -32,7 +32,7 @@ return function(target)
 	local _ON_EVENT = _fuse.ON_EVENT
 	local _ON_PROPERTY = _fuse.ON_PROPERTY
 
-	--states
+	--States
 	local kickMode: ValueState<MainSysUtil.KickMode> = _Value("Kick" :: any)
 
 	local toolSignal = maid:GiveTask(Signal.new())
