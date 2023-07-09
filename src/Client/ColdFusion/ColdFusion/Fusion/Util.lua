@@ -79,10 +79,6 @@ return function(interface: any)
 		return nil
 	end
 
-	-- function Util:Set<T>(initial: T): nil
-	-- 	return self:set(initial)
-	-- end
-
 	function Util:Get<T>(): T --so that inherited states can still access this functionality
 		return self:get()
 	end

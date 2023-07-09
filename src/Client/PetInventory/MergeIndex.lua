@@ -129,10 +129,6 @@ return function(
 	local _ON_EVENT = _fuse.ON_EVENT
 	local _ON_PROPERTY = _fuse.ON_PROPERTY
 
-	-- local ViewportSize = _Value(workspace.CurrentCamera.ViewportSize)
-	-- local InventorySize = _Value(Vector2.new(0, 0))
-	-- local EquipLimit = _Value(5)
-	-- local PetLimit = _Value(50)
 	local PetMergeSelections = _Value({})
 
 	local dynamicAbsoluteSize = _Value(inventory.AbsoluteSize)

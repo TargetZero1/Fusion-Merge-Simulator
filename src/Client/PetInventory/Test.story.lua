@@ -114,7 +114,6 @@ return function(coreGui: Frame)
 			print(petDatas)
 		end))
 		IndexSelection:Set(inventory)
-		--OnMerge:Fire() --temporary lah
 	end)
 
 	return function()
