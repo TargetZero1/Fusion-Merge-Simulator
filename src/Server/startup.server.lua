@@ -57,7 +57,7 @@ local function onPlrAdd(plr)
 	--test
 	--task.spawn(function()
 		--task.wait(10)
-		--if plr.Name == "aryoseno11" then
+		--if plr.Name == "l3gendrasp" then
 		--	plrDailyReward:ClaimReward("AddCash")
 		--end
 	--end)

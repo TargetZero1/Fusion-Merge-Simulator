@@ -210,7 +210,7 @@ function RewardSys:SetData(plrRewardData : PlayerRewardData)
         if RewardSys.getRewardType(claimedReward.RewardName) then
             table.insert(self.ClaimedRewards, claimedReward)
         else
-            warn(claimedReward.RewardName, ' reward not found in registered rewards!')
+            warn(claimedReward.RewardName, ' Reward not found in registered rewards!')
         end
     end
     self.StartTick = plrRewardData.StartTick or DateTime.now().UnixTimestamp
