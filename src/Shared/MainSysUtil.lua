@@ -10,7 +10,7 @@ local BlocksUtil = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild
 local MiscLists = require(ReplicatedStorage:WaitForChild("Shared"):WaitForChild("MiscLists"))
 local PetsUtil = require(game:GetService("ReplicatedStorage"):WaitForChild("Shared"):WaitForChild("PetsUtil"))
 
---types
+--Types
 type Maid = Maid.Maid
 type Signal = Signal.Signal
 

@@ -84,7 +84,6 @@ local MERGE_FOLDER: Folder = STATUE_FOLDER:WaitForChild("Merge") :: Folder
 local LOCAL_MERGE_FOLDER: Folder = STATUE_FOLDER:WaitForChild("LocalMerge") :: Folder
 
 -- Private functions
-
 function getUserDatastoreKey(userId: number): string
 	return DS_KEY_PREFIX .. tostring(userId)
 end

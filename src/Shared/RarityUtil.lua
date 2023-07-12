@@ -1,5 +1,4 @@
 --!strict
-
 --types
 export type RarityName = "ExtremelyRare" | "Rare" | "Common" | "ExtremelyCommon"
 
